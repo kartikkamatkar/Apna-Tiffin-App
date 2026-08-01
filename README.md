@@ -104,6 +104,7 @@ This enables users to find daily meal options without hassle.
 - Multi-language support
 
 ---
+.
 
 ## ▶️ How to Run
 
