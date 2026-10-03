@@ -101,7 +101,7 @@ This enables users to find daily meal options without hassle.
 - Ratings & reviews
 - Order scheduling
 - Push notifications
-- Multi-language support.
+- Multi-language support..
 
 ---
 .
